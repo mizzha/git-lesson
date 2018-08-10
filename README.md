@@ -1,2 +1,3 @@
 this is a study!:x!
-i updated it for 2 commit
+i updated it for 2 commi
+this is my 3rd committ
